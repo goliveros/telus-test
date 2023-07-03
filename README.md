@@ -4,7 +4,7 @@ Clone the project
 
 ```bash
 
-git clone https://github.com/moinulmoin/vite-react-tailwind-starter project-name
+git clone https://github.com/goliveros/telus-test.git project-name
 
 ```
 
