@@ -1,7 +1,3 @@
-# vite-react-tailwindcss starter
-
-a simple and clean starter to start the project with Vite, Reactjs, Tailwind CSS.
-
 ## Run it locally
 
 Clone the project
@@ -30,12 +26,6 @@ Start the server
 
 `npm run dev` or `yarn dev`
 
-Now customize everything as your needs.
-
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
-
-## Support
-
-Leave a star ⭐ if it helped you. Thank you💖
