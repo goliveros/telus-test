@@ -1,3 +1,11 @@
+## I used a starter template that uses tailwind CSS and Vite from
+
+```bash
+
+https://github.com/moinulmoin/vite-react-tailwind-starter
+
+```
+
 ## Run it locally
 
 Clone the project
